@@ -19,7 +19,7 @@ The objectives of this project are:
 - **Improved Disease Detection:** The developed models enhance the disease detection and localization processes, increasing both speed and accuracy for medical imaging modalities such as X-rays, CT scans, and MRI.
 
 ## Results
-- **Classifier Model Accuracy:** 98%
+- **Classifier Model Accuracy:** 98.9%
 - **Tumor Segmentation Performance:** 
 
 ## Future Work
